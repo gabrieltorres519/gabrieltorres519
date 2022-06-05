@@ -16,8 +16,6 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Gabriel Torres Mendoza</h1>
 <h3 align="center">A passionate junior developer from Guanajuato, Mexico.</h3>
 
-<p align="left"> <a href="https://twitter.com/@gabrielletorri1" target="blank"><img src="https://img.shields.io/twitter/follow/@gabrielletorri1?logo=twitter&style=for-the-badge" alt="@gabrielletorri1" /></a> </p>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/@gabrielletorri1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@gabrielletorri1" height="30" width="40" /></a>
