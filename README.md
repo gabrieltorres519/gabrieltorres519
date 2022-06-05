@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">Hi 👋, I'm Gabriel Torres Mendoza</h1>
-<h3 align="center">A passionate junior developer from Guanajuato, Mexico.</h3>
+<h3 align="center">A Student and constantly learning developer from Guanajuato, Mexico.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
