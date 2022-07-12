@@ -7,7 +7,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/@gabrielletorri1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@gabrielletorri1" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/gabriel alberto torres mendoza" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gabriel alberto torres mendoza" height="30" width="40" /></a>
+<a href="[https://linkedin.com/in/gabriel alberto torres mendoza](https://mx.linkedin.com/in/gabriel-alberto-torres-mendoza-36276b1b0)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gabriel alberto torres mendoza" height="30" width="40" /></a>
 <a href="https://instagram.com/gabrielletorricelli" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gabrielletorricelli" height="30" width="40" /></a>
 <a href="https://www.youtube.com/channel/UCidGV1EU-QJ9HyUrVUd_W8w" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="gabriel torres mendoza" height="30" width="40" /></a>
 </p>
