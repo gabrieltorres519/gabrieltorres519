@@ -1,5 +1,5 @@
 <h1 align="center">Hello 👋, I'm Gabriel Torres Mendoza</h1>
-<h3 align="center">A student and constantly learning developer from Guanajuato, Mexico.</h3>
+<h3 align="center">A student and a constantly learning developer from Guanajuato, Mexico.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gabrieltorres519&label=Profile%20views&color=0e75b6&style=flat" alt="gabrieltorres519" /> </p>
 
